@@ -6,7 +6,7 @@ package android.os;
 /**
  * @author Fan Hongtao &ltfanhongtao@gmail.com&gt
  */
-public class StrictMode {
+public final class StrictMode {
     /**
      * Called from Parcel.writeNoException()
      */
